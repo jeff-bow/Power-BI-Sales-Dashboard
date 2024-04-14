@@ -1,5 +1,3 @@
-Sales-Dashboard-Using-Power-BI
-
 This project showcases an interactive report for a Global Superstore. The report focuses on 3 European markets, Ireland, France, and Germany. The report breaks down sales performance, the performance of each product type, and customer profiles.
 
 Along with the dashboard we have created a SQL code to convert the data into an easy-to-use database. This allows for more niche data queries without having to alter the dashboard.
