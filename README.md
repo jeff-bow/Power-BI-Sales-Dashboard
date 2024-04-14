@@ -4,6 +4,8 @@ Along with the dashboard we have created a SQL code to convert the data into an 
 
 The Power BI dashboard/reports can be viewed in the file provided.
 
+[View more projects like this!](https://jeff-bow.github.io/)
+
 # Creating the Database - SQL
 
 First, we create a database to store our data.
