@@ -18,7 +18,7 @@ The Power BI dashboard/reports can be viewed in the file provided.
 
 [View more projects like this!](https://jeff-bow.github.io/)
 
-# We decided to also create a database using Postgre SQL
+# This project also contains an SQl file we created.
 
 # Creating the Database - SQL
 
