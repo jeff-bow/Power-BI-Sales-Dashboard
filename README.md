@@ -2,7 +2,9 @@ This project showcases an interactive report for a Global Superstore. The report
 
 Along with the dashboard we have created a SQL code to convert the data into an easy-to-use database. This allows for more niche data queries without having to alter the dashboard.
 
-This data was chosen because it has an excellent variation of data types and before processing, had close to 50,000 rows of data. It was chosen by our group because it had excellent potential for gaining valuable insights using a visualisation tool like Power BI. It is of critical importance for an analyst using Power BI to set up and structure their data appropriately before creating visuals. This is because any mistakes that are noticed after transforming the data can have significant knock-on effects and can take time to fix. This dataset was designed in a way that was relatively well structured, and only required a small number of transformations. The rich variation of the data from profits and returns, to shipping data, meant that we could extract a myriad of valuable information and present it to our viewers. 
+This data was chosen because it has an excellent variation of data types and before processing, had close to 50,000 rows of data. It was chosen by our group because it had excellent potential for gaining valuable insights using a visualisation tool like Power BI. 
+
+It is of critical importance for an analyst using Power BI to set up and structure their data appropriately before creating visuals. This is because any mistakes that are noticed after transforming the data can have significant knock-on effects and can take time to fix. This dataset was designed in a way that was relatively well structured, and only required a small number of transformations. The rich variation of the data from profits and returns, to shipping data, meant that we could extract a myriad of valuable information and present it to our viewers. 
 
 The data was free of significant outliers, but many of the variables had incorrect data types assigned to them. There were several fields with null values, and a number of date related fields that we used to analyse shipment efficiencies. All of these factors had to be accounted for before we began creating visualisations. 
 
@@ -10,7 +12,7 @@ The data itself was retrieved from a public database, and was free to access. Th
 
 The Power BI dashboard/reports can be viewed in the file provided.
 
-[Link to the free-to-use dataset:](https://powerbidocs.com/tag/sample-superstore-sales-excel-xls/?ref=hackernoon.com)
+[Link to the free-to-use dataset](https://powerbidocs.com/tag/sample-superstore-sales-excel-xls/?ref=hackernoon.com)
 
 [View more projects like this!](https://jeff-bow.github.io/)
 
