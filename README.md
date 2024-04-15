@@ -18,8 +18,6 @@ The Power BI dashboard/reports can be viewed in the file provided.
 
 [View more projects like this!](https://jeff-bow.github.io/)
 
-# This project also contains an SQL file we created.
-
 # Creating the Database - SQL
 
 First, we create a database to store our data.
